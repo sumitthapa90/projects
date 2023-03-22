@@ -1,0 +1,10 @@
+.type{
+  background: -webkit-linear-gradient(#eee, #a7e95c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.texed{
+    background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
